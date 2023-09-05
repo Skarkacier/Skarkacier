@@ -3,7 +3,7 @@
 good researcher. I am constantly trying to learn new things and improve myself. I like to follow the
 latest technology and watch innovation.
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning .NET Core, React.js, C# etc.
+- 🌱 I’m currently learning .NET Core, C# etc.
 - 📫 How to reach me sedakarkacier@gmail.com
 
 <!---
