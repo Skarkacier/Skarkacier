@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Seda
-- I am a computer engineer interested in software development. I am a compatible team player and a
-good researcher. I am constantly trying to learn new things and improve myself. I like to follow the
-latest technology and watch innovation.
+- I recently received my degree in computer engineering and have a solid background in C# and React. My passion is creating original solutions and always improving my technical abilities. I love to keep up with the newest technological advancements and learn new programming languages. I am dedicated to creating software that addresses real-world problems effectively. constantly excited about fresh challenges and chances for advancement in the tech sector.
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning .NET Core, C# etc.
+- 🌱 I’m currently learning .NET Core, C#, ReactJS etc.
 - 📫 How to reach me sedakarkacier@gmail.com
 
 <!---
